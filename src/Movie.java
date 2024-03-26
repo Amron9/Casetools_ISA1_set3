@@ -7,6 +7,9 @@ public class Movie {
     }
     public String getTitle(){
         return this.Title;
+        public String getDirector() {
+            return this.director;
+        }
 
     }
 }
